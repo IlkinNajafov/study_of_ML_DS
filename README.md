@@ -2,6 +2,6 @@
 
 This repository is a notebook of my progress while I'm learning, studying and practicing Machine Learning and Data Science.
 Purpose of this repository is to take a glance when I'm lost on Data World :D, to share my notes with people who learn Data Science and Machine Learning
-and to take a record of my progress that how much I learned and how long distance far I am from my goal.
+and to take a record of my progress that how much I've learned and how long distance far I am from my goal.
 
-## NOTE: In order to see the notebook, you must change the branch to _master_ from _main_.
+## NOTE: In order to see the notebook, you must change the branch to **master** from **main**.
